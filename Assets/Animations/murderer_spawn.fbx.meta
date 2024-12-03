@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: eecdd652597f1c74c9d48c96319bf995
+=======
+guid: e4b93c378980ffd4e946e227a74a1a0c
+>>>>>>> animador
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
